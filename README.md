@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadahmed)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell)
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadahmed&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=3)
 
 [![Fahad Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahadahmed)](https://wakatime.com/@fahadahmed)
 
