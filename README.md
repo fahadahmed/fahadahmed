@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadahmed&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=2&theme=radical)
 
-[![Fahad Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahadahmed)](https://wakatime.com/@fahadahmed)
+[![Fahad Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahadahmed&theme=radical)](https://wakatime.com/@fahadahmed)
 
 
