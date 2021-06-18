@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadahmed)](https://github.com/fahadahmed/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed)](https://github.com/fahadahmed/github-readme-stats)
 [![Fahad Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahadahmed)](https://github.com/fahadahmed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed)](https://github.com/fahadahmed/github-readme-stats)
 
 
