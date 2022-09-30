@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a front end engineer based in Melbourne and have worked with top organisations in Australia like GE Capital, Latitude Financial Services and ANZ. I am currently working as a Senior Consultant for Infosys where I develop software for clients in telecommunications industry.
+I am a software engineer based in Melbourne and have worked with top organisations in Australia like GE Capital, Latitude Financial Services and ANZ. I am currently working as a Manager (Fullstack Development) for Ernst & Young (EY) in their Center of Excellence for Spacetech and Emerging Technologies.
 
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadahmed&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=3&theme=radical)
