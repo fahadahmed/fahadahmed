@@ -1,24 +1,39 @@
-### Hi there 👋
+# Hi, I'm Fahad 👋
 
-<!--
-**fahadahmed/fahadahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology Consulting Manager & Solution Architect at EY Australia (Melbourne), building independent software products on the side under **[fhdamd.dev](https://fhdamd.dev)**.
 
-Here are some ideas to get you started:
+I design and ship end-to-end — architecture, backend, frontend, and the business behind it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a software engineer based in Melbourne and have worked with top organisations in Australia like GE Capital, Latitude Financial Services, Spark NZ, Growing Data, Infosys and ANZ. I am currently working as a Manager (Fullstack Development) for Ernst & Young (EY) in their Center of Excellence for Spacetech and Emerging Technologies.
+---
 
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadahmed&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=3&theme=radical)
+### 🛠️ What I'm building
 
-[![Fahad Ahmed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahadahmed&theme=radical)](https://wakatime.com/@fahadahmed)
+- **[Riqa](https://riqa.app)** — a credit-based PDF tools platform (merge, compress, sign, encrypt, and more) for bookkeepers, mortgage brokers, migration agents, and legal secretaries.
+- **Jamaal** — a calm-focus iOS/macOS app, launching October 2026.
+- **Hashiya** — a native macOS app for local, offline PDF chat powered by a local LLM.
+- **Ruqm** — a B2B SaaS quoting tool for Australian tradespeople.
 
+### 💻 Core stack
 
+`Astro` · `Firebase` · `DatoCMS` · `Stripe` · `Resend` · `Swift` · `TypeScript`
+
+### 🤝 Consulting
+
+I help small businesses and professional practices go from idea to a live, production-ready product — architecture, build, and launch. Based in Melbourne, working with clients across Australia.
+
+- **Presence** — a polished web presence, built and shipped in 4–6 weeks.
+- **Commerce** — a full Stripe + Firebase commerce engine, built in 6–10 weeks.
+- **Growth Partner** — an ongoing retainer for iteration and support post-launch.
+
+Get in touch via [fhdamd.dev](https://fhdamd.dev).
+
+### 📫 Reach me
+
+- Product: [riqa.app](https://riqa.app)
+
+### Stats
+[![Fahad's GitHub stats](https://github-stats-extended.vercel.app/api?username=fahadahmed)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=3)
+
+[![Fahad Ahmed's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=fahadahmed)](https://wakatime.com/@fahadahmed)
