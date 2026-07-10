@@ -19,7 +19,7 @@ I design and ship end-to-end — architecture, backend, frontend, and the busine
 
 ### 🤝 Consulting
 
-I help small businesses and professional practices go from idea to a live, production-ready product — architecture, build, and launch. Based in Melbourne, working with clients across Australia.
+I help small businesses and professional practices go from idea to a live, production-ready product — architecture, build, and launch. Based in Melbourne, working with clients worldwide.
 
 - **Presence** — a polished web presence, built and shipped in 4–6 weeks.
 - **Commerce** — a full Stripe + Firebase commerce engine, built in 6–10 weeks.
