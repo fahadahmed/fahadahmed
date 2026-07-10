@@ -33,7 +33,6 @@ Get in touch via [fhdamd.dev](https://fhdamd.dev).
 
 ### Stats
 [![Fahad's GitHub stats](https://github-stats-extended.vercel.app/api?username=fahadahmed)](https://github.com/stats-organization/github-stats-extended)
-
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fahadahmed&exclude_repo=docker-wordpress,XSell&langs_count=3)
 
 [![Fahad Ahmed's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=fahadahmed)](https://wakatime.com/@fahadahmed)
