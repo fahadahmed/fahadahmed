@@ -23,13 +23,12 @@ I help small businesses and professional practices go from idea to a live, produ
 
 - **Presence** — a polished web presence, built and shipped in 4–6 weeks.
 - **Commerce** — a full Stripe + Firebase commerce engine, built in 6–10 weeks.
-- **Growth Partner** — an ongoing retainer for iteration and support post-launch.
 
 Get in touch via [fhdamd.dev](https://fhdamd.dev).
 
 ### 📫 Reach me
-
-- Product: [riqa.app](https://riqa.app)
+- Websites, Apps & Products: [fhdamd.dev](https://fhdamd.dev/contact)
+- Product: [riqa.app](https://riqa.app/contact)
 
 ### Stats
 [![Fahad's GitHub stats](https://github-stats-extended.vercel.app/api?username=fahadahmed)](https://github.com/stats-organization/github-stats-extended)
