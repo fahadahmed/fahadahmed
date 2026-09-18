@@ -27,7 +27,7 @@ I help small businesses and professional practices go from idea to a live, produ
 Get in touch via [fhdamd.dev](https://fhdamd.dev).
 
 ### 📫 Reach me
-- Websites, Apps & Products: [fhdamd.dev](https://fhdamd.dev/contact)
+- Websites & Apps: [fhdamd.dev](https://fhdamd.dev/contact)
 - Product: [riqa.app](https://riqa.app/contact)
 
 ### Stats
