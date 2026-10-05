@@ -9,7 +9,7 @@ I design and ship end-to-end — architecture, backend, frontend, and the busine
 ### 🛠️ What I'm building
 
 - **[Riqa](https://riqa.app)** — a credit-based PDF tools platform (merge, compress, sign, encrypt, and more) for bookkeepers, mortgage brokers, migration agents, and legal secretaries.
-- **Jamaal** — a calm-focus iOS/macOS app, launching October 2026.
+- **Jamaal** — a calm-focus iOS/macOS app, launching December 2026.
 - **Hashiya** — a native macOS app for local, offline PDF chat powered by a local LLM.
 - **Ruqm** — a B2B SaaS quoting tool for Australian tradespeople.
 
